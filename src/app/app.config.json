@@ -3,5 +3,5 @@
   "ocscope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader",
   "clientid": "BDD025A9-C0D3-4B8B-A4C9-F06F9D8B4003",
   "buyerid": "connor_buyer_0512",
-  "environment": "qa"
+  "environment": "test"
 }
